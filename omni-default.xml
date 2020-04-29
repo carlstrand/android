@@ -9,9 +9,9 @@
   <!-- Include forked CAF -->
   <include name="omni-caf.xml" />
 
-  <!-- include registered repos -->
+  <!-- include registered repos
   <include name="omni-private.xml" />
-
+ -->
   <!-- OmniROM Projects -->
   <project path="android" name="android" remote="omnirom" revision="android-10" />
 
